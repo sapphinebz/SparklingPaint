@@ -5,5 +5,5 @@ Canvas Colorful Sparkling Paint
 - Typescript
 - RxJS
 
-# Test
+Test
 - yarn start / npm run start
